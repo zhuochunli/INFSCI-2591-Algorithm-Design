@@ -4,4 +4,4 @@
 	Time: 01/19/2021-04/22/2021
 	Instructor: Hassan Ali Karimi, email: hkarimi@pitt.edu
 	Textbook: Foundations of Algorithms
-	L
+	Language: Python
